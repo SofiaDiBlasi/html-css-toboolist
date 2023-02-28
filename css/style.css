@@ -1,0 +1,21 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    background-color: white;
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    vertical-align: middle;
+}
+
+#logo{
+width: 80px;
+}
+
+.logo-text{
+    font-size: 50px;
+    display: inline-block;
+}
