@@ -23,6 +23,7 @@ width: 80px;
 }
 
 button{
+    font-size: 15px;
     border-radius: 5px;
     height: 30px;
     border: 1px solid;
@@ -40,8 +41,13 @@ button{
     color: rgb(223, 231, 234);
 }
 
+h3{
+    font-size: 25px;
+}
+
 p{
-    margin: 25px;
+    margin: 25px 0;
+    font-size: 25px;
 }
 
 .icon-border{
@@ -62,7 +68,7 @@ p{
 }
 
 small{
-    font-size: 10px;
+    font-size: 12px;
     border-radius: 12px;
     padding: 7px 12px;
     border: 1px solid;
@@ -98,3 +104,22 @@ small{
     background-color:rgb(176, 201, 38) ;
     border-color: rgb(176, 201, 38) 
 }
+
+div{
+    background-color: white;
+    width: 1200px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.button-conteiner{
+    margin-top: 50px;
+    margin-bottom: 0;
+    padding: 15px 60px;
+}
+
+.section-conteiner{
+    margin-top: 5px;
+    padding: 35px 60px;
+}
+
